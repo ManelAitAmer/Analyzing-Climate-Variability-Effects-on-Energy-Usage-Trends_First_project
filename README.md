@@ -16,7 +16,7 @@ In this project, we delve into the realm of climate change analysis and energy d
 ## Method of Analyzing:
 
 **Temperature Analysis :** Analyze temperature data to identify trends in global warming, using desroptives analysis.
-![Uploading Capture d’écran 2024-04-17 à 23.04.22.png…]()
+![](https://github.com/ManelAitAmer/first-project//Uploading Capture d’écran 2024-04-17 à 23.04.22.png…)
 
 
 
