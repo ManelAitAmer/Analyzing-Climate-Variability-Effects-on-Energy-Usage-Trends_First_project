@@ -40,3 +40,15 @@ In this project, we delve into the realm of climate change analysis and energy d
 <img width="536" alt="Capture d’écran 2024-04-18 à 00 37 03" src="https://github.com/ManelAitAmer/first-project/assets/160795377/5f1e421a-eda6-453b-aa50-b022b0b74b94">
 <img width="537" alt="Capture d’écran 2024-04-18 à 00 37 50" src="https://github.com/ManelAitAmer/first-project/assets/160795377/fd39d6e1-a14c-4c8a-86d8-fce3b62ee966">
 
+**Effect of Humidity on Renewable Energy Generation:** Our project seeks to investigate the hypothesis that changes in climatic variables, such as temperature, hydropower, and wind patterns, significantly impact energy demand patterns at both regional and global scales.
+
+<img width="629" alt="Capture d’écran 2024-04-18 à 00 43 35" src="https://github.com/ManelAitAmer/first-project/assets/160795377/a29391ca-cdec-4c3b-b1dc-183c55404c2d">
+
+## Content:
+
+| Libraries Used  |
+| ------------- | 
+|Pandas  Library :panda_face: |
+|Seaborn Library :books: | 
+|Numpy   Library :books: | 
+|Matplotlib.pyplot Library :bar_chart:|
