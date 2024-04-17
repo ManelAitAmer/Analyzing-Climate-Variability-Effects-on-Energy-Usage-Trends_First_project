@@ -18,5 +18,8 @@ In this project, we delve into the realm of climate change analysis and energy d
 **Temperature Analysis :** Analyze temperature data to identify trends in global warming, using desroptives analysis.
 <img width="884" alt="Capture d’écran 2024-04-17 à 23 04 22" src="https://github.com/ManelAitAmer/first-project/assets/160795377/e1d7a414-64c7-47ce-b39e-1d4fb7bebaff">
 
+**Temperature Distribution Analysis:** The histogram helps visualize the spread and shape of the temperature data, highlighting any central tendency and variability in temperature values.
+<img width="761" alt="Capture d’écran 2024-04-18 à 00 30 10" src="https://github.com/ManelAitAmer/first-project/assets/160795377/a6cb855c-0701-4eee-a07e-4f1b944c0055">
+
 
 
