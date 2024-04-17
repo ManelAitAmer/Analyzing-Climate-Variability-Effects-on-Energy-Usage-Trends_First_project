@@ -46,9 +46,12 @@ In this project, we delve into the realm of climate change analysis and energy d
 
 ## Content:
 
+These libraries we have a solid foundation for performing data analysis, visualization, and exploration in the project. 
+
 | Libraries Used  |
 | ------------- | 
 |Pandas  Library :panda_face: |
 |Seaborn Library :books: | 
 |Numpy   Library :books: | 
 |Matplotlib.pyplot Library :bar_chart:|
+|Requests ❓|
