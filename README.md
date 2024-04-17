@@ -8,5 +8,14 @@ This why I chosed **ECOWEATHER** API, that i converted to a DataFrame.\
 In this project, we delve into the realm of climate change analysis and energy demand forecasting, aiming to:\
 
 * 🌍 Explore the relationship between weather variables and energy consumption.
+* 🌍 Establish a relationship between wind energy production and rain precipitation by analyzing historical data on wind energy production and rain precipitation.
 * 🌍 Analyze the impact of climate change on energy demand trends.
 * 🌍 Develop predictive models to forecast energy demand under changing climatic conditions.
+
+
+## Method of Analyzing:
+
+**Temperature Analysis :** Analyze temperature data to identify trends in global warming, using desroptives analysis.
+
+
+
