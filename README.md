@@ -4,7 +4,7 @@
 
 ## Introduction:
 Climate change is one of the most pressing challenges facing humanity in the 21st century\
-This why I chosed $${\color{green}ECOWEATHER}$$ API, that i converted to a DataFrame.\
+This why I chosed **ECOWEATHER** API, that i converted to a DataFrame.\
 In this project, we delve into the realm of climate change analysis and energy demand forecasting, aiming to:\
 
 * 🌍 Explore the relationship between weather variables and energy consumption.
